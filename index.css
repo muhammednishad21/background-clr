@@ -1,10 +1,10 @@
 body{
     text-align: center;
-    background-color:linen ;
+    background-color: rgb(13, 200, 220);
 }
 h1{
     color: crimson;
 }
 p{
-    color: rgb(13, 243, 113);
+    color: rgb(139, 13, 243);
 }
